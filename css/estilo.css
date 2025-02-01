@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+}
+.contenido_uno{
+    background-color: blueviolet;
+    padding: 0px 20px;
+}
