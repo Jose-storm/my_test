@@ -24,7 +24,36 @@ a{
     font-weight: bold;
     letter-spacing: 2px;
 }
+p{
+    text-align: center;
+    word-spacing: 20px;
+}
 .footer{
     background-color: #240046;
     height: 50vh;
+}
+.contenido_img{
+    display: flex;
+    flex-flow: row wrap;
+    background-color: cornflowerblue;
+    height: 70vh;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.img{
+    background-color: azure;
+    background-image: url(../img/castelmezzano-1979546_1280.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    border-radius: 7px;
+}
+.one{
+    background-image: url(../img/lake-7443622_1280.jpg);
+}
+.tree{
+    background-image: url(../img/mountain-9328919_1280.jpg);
 }
