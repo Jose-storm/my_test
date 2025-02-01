@@ -10,3 +10,21 @@
     font-family: "Ubuntu", sans-serif;
     color: white;
 }
+h2{
+    font-size: 40px;
+    text-align: center;
+    font-family: "Ubuntu", sans-serif;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: orange;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.footer{
+    background-color: #240046;
+    height: 50vh;
+}
